@@ -1,1 +1,1 @@
-console.log(" hello world mudo git")
+console.log(" so git nada de usar o vim....")
